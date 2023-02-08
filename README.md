@@ -3,4 +3,4 @@
 ## 2/8/2023
 ## link to github site
 
-![Picture of Alina](url "Alina-6.jpg")
+![Picture of Alina](Alina-6.JPG)
